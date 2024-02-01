@@ -1,0 +1,195 @@
+body {
+    background-color: black;
+}
+
+.instagram {
+    background: #d6d3d3;
+    margin: auto;
+	width: 75%;
+}
+
+header {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 1px;
+    font-family: "arial";
+    margin-top: 20px;
+}
+
+header h1 {
+    margin-left: 420px;
+}
+
+
+.insta-feed {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 20px
+}
+
+
+.post1-header {
+    display: flex;
+    background: white;
+    color: black; 
+    padding: 1px;
+    justify-content: space-between;
+}
+
+.post1-header h1 {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+
+.post1-header h2 {
+    font-size: 20px;
+    color: grey;
+    margin-right: 30px;
+}
+
+.post1-foto img {
+    width: 100%;
+      height: auto;
+      margin-bottom: -10px;
+}
+
+.post1-final {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-bottom: 20px;
+}
+
+.post1-final p {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.post2-header {
+    display: flex;
+    background: white;
+    color: black; 
+    padding: 1px;
+    justify-content: space-between;
+}
+
+.post2-header h1 {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.post2-header h2 {
+    font-size: 20px;
+    color: grey;
+    margin-right: 30px;
+}
+
+.post2-foto img {
+    width: 100%;
+      height: auto;
+      margin-bottom: -10px;
+}
+
+.post2-final {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-bottom: 20px;
+}
+
+.post2-final p {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.post3-header {
+    display: flex;
+    background: white;
+    color: black; 
+    padding: 1px;
+    justify-content: space-between;
+
+}
+
+.post3-header h1 {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.post3-header h2 {
+    font-size: 20px;
+    color: grey;
+    margin-right: 30px;
+}
+
+.post3-foto img {
+    width: 100%;
+      height: auto;
+      margin-bottom: -10px;
+}
+
+.post3-final {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-bottom: 20px;
+}
+
+.post3-final p {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.post4-header {
+    display: flex;
+    background: white;
+    color: black; 
+    padding: 1px;
+    justify-content: space-between;
+}
+
+.post4-header h1 {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+
+.post4-header h2 {
+    font-size: 20px;
+    color: grey;
+    margin-right: 30px;
+}
+
+.post4-foto img {
+    width: 100%;
+      height: auto;
+      margin-bottom: -10px;
+}
+
+.post4-final {
+    background: white;
+    color: black; 
+    padding: 1px;
+    margin-bottom: 20px;
+}
+
+.post4-final p {
+    margin-left: 8px;
+    font-size: 18px;
+}
